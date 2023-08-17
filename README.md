@@ -49,10 +49,10 @@ Os seguintes campos:
 - updated_at <br> 
 
 precisam existir na tabela produtos do banco de dados para garantir que voce nao tenha problemas na hora de testar a aplicaçao. 
-Utilize as migrations para criar as tabelas no seu bando de dados.<br>
+Utilize as migrations para criar as tabelas no seu bando de dados.<br><br>
 
 
-## Este projeto aborda as seguintes Manipulações de Dados com o Framework Laravel: 
+# <h3>Este projeto aborda Tradução de Multi Idiomas de forma Dinâmica com seletor e Manipulações de Dados com o Framework Laravel:</h3> 
 
 • Login; <br>
 • Logout; <br>
